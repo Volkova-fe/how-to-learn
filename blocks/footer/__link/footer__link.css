@@ -1,7 +1,12 @@
 .footer__link {
   text-decoration: none;
-  color: white;
+  color: #fff;
   line-height: 18px;
   font-size: 18px;
   font-weight: 400;
+  transition: color 0.5s ease;
+}
+
+.footer__link:hover {
+  color: rgb(95, 93, 93);
 }

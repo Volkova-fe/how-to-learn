@@ -1,6 +1,6 @@
 @import url('/vendors/normalize.css');
 @import url('./blocks/page/page.css');
-@import url('./blocks/fonts/fonts.css');
+@import url('./fonts/fonts.css');
 @import url('./blocks/logo/logo.css');
 @import url('./blocks/section-title/section-title.css');
 @import url('./blocks/section-subtitle/section-subtitle.css');
@@ -73,3 +73,5 @@
 @import url('./blocks/main/khan/__book/khan__book-pic.css');
 @import url('./blocks/main/khan/__book/khan__book-container.css');
 @import url('./blocks/main/khan/__buy/khan__buy-link.css');
+@import url('./blocks/main//kaufman/__triangle/kaufman__triangle.css');
+@import url('./blocks/rotation/keyframes-rotation.css')

@@ -7,4 +7,5 @@
 
 .video__iframe:nth-child(2n) {
   margin-right: 0;
+  padding-right: 32px;
 }
