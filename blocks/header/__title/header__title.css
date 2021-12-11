@@ -4,8 +4,8 @@
   font-size: 102px;
   font-weight: 600;
   z-index: 1;
-  margin-left: 64px;
   display: flex;
   align-content: center;
   color: #000;
+  margin: 0 0 0 64px;
 }
