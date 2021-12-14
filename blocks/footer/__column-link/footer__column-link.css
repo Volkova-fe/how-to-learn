@@ -1,8 +1,8 @@
-.footer__list-item {
+.footer__column-link {
   display: block;
   margin-bottom: 10px;
 }
 
-.footer__list-item:last-child {
+.footer__column-link:last-child {
   margin-bottom: 16px;
 }

@@ -1,7 +1,0 @@
-.resourse__logo_arzamas {
-  transition: background-image 0.5s ease;
-}
-
-.resourse__logo_arzamas:hover {
-  opacity: 0.5;
-}
